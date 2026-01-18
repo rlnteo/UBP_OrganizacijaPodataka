@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1768752322 source:c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\ubp_05_sekvencijalna_datoteka\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije.h"
+
+1768744178 c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\ubp_05_sekvencijalna_datoteka\operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struktura_podataka.h"
+
+1768742643 c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\ubp_05_sekvencijalna_datoteka\struktura_podataka.h
+
+1768751871 source:c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\ubp_05_sekvencijalna_datoteka\operacije.c
+	"operacije.h"
+	"struktura_podataka.h"
+
