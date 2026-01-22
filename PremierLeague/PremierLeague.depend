@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1769119799 source:c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\premierleague\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije_nad_datotekom.h"
+	"struktura_klub.h"
+	"struktura_grad.h"
+
+1768830052 c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\premierleague\operacije_nad_datotekom.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struktura_klub.h"
+	"struktura_grad.h"
+
+1768815053 c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\premierleague\struktura_klub.h
+
+1768854563 source:c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\premierleague\operacije_nad_datotekom.c
+	"operacije_nad_datotekom.h"
+
+1768824456 c:\users\lenovo t480s\desktop\ftn\treca godina\baze\k3\codeblocks\premierleague\struktura_grad.h
+

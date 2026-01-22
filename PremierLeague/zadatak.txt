@@ -1,0 +1,10 @@
+1 ManchesterUnited       Manchester          50 30 20 600.0
+2 Chelsea                London              45 35 18 550.0
+3 Liverpool              Liverpool           60 40 22 620.0
+4 Arsenal                London              55 33 25 580.0
+5 ManchesterCity         Manchester          70 20 30 700.0
+6 Leicester_City         Leicester           40 45 10 300.0
+7 Everton                Liverpool           38 42 12 310.0
+8 Tottenham              London              44 38 15 480.0
+9 West_Ham               London              35 50 11 290.0
+10 LeedsUnited           Leeds               30 60 8  250.0
